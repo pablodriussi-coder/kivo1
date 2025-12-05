@@ -1,0 +1,17 @@
+{
+  "name": "KiVO - Kinetic + Visual + Observation",
+  "short_name": "KiVO",
+  "description": "Herramienta inteligente para analizar y mejorar la accesibilidad de espacios arquitectónicos.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ]
+}

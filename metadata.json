@@ -1,0 +1,7 @@
+{
+  "name": "KiVO - Kinetic + Visual + Observation",
+  "description": "Evaluador inteligente de accesibilidad (Kinetic + Visual + Observation).",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
